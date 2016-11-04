@@ -19,3 +19,11 @@
 - Types of neural network architectures: feed-forward, recurrent (with loops), symmetrically connected networks
 - Boltzmann machines: symmetrically connected networks with hidden units
 - Perceptrons: Minsky and Paper (1969) "Perceptrons" showed what they can do and their limitation
+
+## 2016/11/4
+
+- Week3
+- Informal proof of perceptron convergence: a "generously feasible" weight vector
+    - a weight vector that lies in the feasible region ('correct' side of all training vectors)
+    - by a margin = (length the input vector)
+- After each update, the squared distance of all those generously feasible weight vectors is always decreased
