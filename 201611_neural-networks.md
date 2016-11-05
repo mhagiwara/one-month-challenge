@@ -27,3 +27,11 @@
     - a weight vector that lies in the feasible region ('correct' side of all training vectors)
     - by a margin = (length the input vector)
 - After each update, the squared distance of all those generously feasible weight vectors is always decreased
+
+## 2016/11/5
+
+- Week3
+- Limitations of perceptrons
+    - XOR (discriminate if feature values are the same or not)
+    - In general: different patters that have the same number of pixels on, if we allow translation with wrap-around (Minsky and Papert: "Group Invariance Theorem")
+
