@@ -1,6 +1,8 @@
 
 # November 2016
 
+https://www.coursera.org/learn/neural-networks
+
 ## 2016/11/1
 
 - Number of synapses in a typical brain = 10^15 (10^11 neurons x 7000 connections)
@@ -34,4 +36,10 @@
 - Limitations of perceptrons
     - XOR (discriminate if feature values are the same or not)
     - In general: different patters that have the same number of pixels on, if we allow translation with wrap-around (Minsky and Papert: "Group Invariance Theorem")
+
+## 2016/11/6
+
+- Week4
+- "Multi-layer" neural networks cannot be optimized by perceptron learning algorithm (don't call them "multi-layer" perceptrons)
+- Update weights of linear neurons iteratively: the "delta-rule" delta w = learning rate * input * residual.
 
