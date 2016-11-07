@@ -43,3 +43,9 @@ https://www.coursera.org/learn/neural-networks
 - "Multi-layer" neural networks cannot be optimized by perceptron learning algorithm (don't call them "multi-layer" perceptrons)
 - Update weights of linear neurons iteratively: the "delta-rule" delta w = learning rate * input * residual.
 
+## 2016/11/7
+
+- Week4
+- Online vs batch learning: steepest descent on the error surface vs alternatively zig-zag towards constraints defined by training examples
+- For a logistic neuron: delta rule x slope of logistic (y*(1-y))
+- Learning by perturbing weights: number of weights (or number of neurons) times less efficient than backpropagation
