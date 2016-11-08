@@ -11,20 +11,21 @@ https://www.coursera.org/learn/neural-networks
 
 ## 2016/11/2
 
+- Week1
 - Three types of learning task: supervised, reinforcement, unsupervised
 - Reinforcement learning is difficult because 1) rewards are delayed and 2) a scalar reward lacks information
 - Unsupervised learning has been largely ignored by the community
 
 ## 2016/11/3
 
-- Week2
+- Week1
 - Types of neural network architectures: feed-forward, recurrent (with loops), symmetrically connected networks
 - Boltzmann machines: symmetrically connected networks with hidden units
 - Perceptrons: Minsky and Paper (1969) "Perceptrons" showed what they can do and their limitation
 
 ## 2016/11/4
 
-- Week3
+- Week2
 - Informal proof of perceptron convergence: a "generously feasible" weight vector
     - a weight vector that lies in the feasible region ('correct' side of all training vectors)
     - by a margin = (length the input vector)
@@ -32,20 +33,31 @@ https://www.coursera.org/learn/neural-networks
 
 ## 2016/11/5
 
-- Week3
+- Week2
 - Limitations of perceptrons
     - XOR (discriminate if feature values are the same or not)
     - In general: different patters that have the same number of pixels on, if we allow translation with wrap-around (Minsky and Papert: "Group Invariance Theorem")
 
 ## 2016/11/6
 
-- Week4
+- Week3
 - "Multi-layer" neural networks cannot be optimized by perceptron learning algorithm (don't call them "multi-layer" perceptrons)
 - Update weights of linear neurons iteratively: the "delta-rule" delta w = learning rate * input * residual.
 
 ## 2016/11/7
 
-- Week4
+- Week3
 - Online vs batch learning: steepest descent on the error surface vs alternatively zig-zag towards constraints defined by training examples
 - For a logistic neuron: delta rule x slope of logistic (y*(1-y))
 - Learning by perturbing weights: number of weights (or number of neurons) times less efficient than backpropagation
+
+## 2016/11/8
+
+- Week3
+- Outline of backpropagation algorithm:
+    - dE/dw(i, j) = dE/dy(j) * dy(j)/dz(j) * dz(j)/dw(i,j)
+    - First factor: dE/dy(j) = -(t(j) - y(j))
+    - Second factor: dy(j)/dz(j) = y(j) * (1-y(j))
+    - Third factor: dz(j)/dw(i,j) = y(i)
+- How to update weights: online, full-batch, mini-batch
+- Dropout: making NNs more robust by randomly omitting hidden units
