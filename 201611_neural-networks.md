@@ -61,3 +61,7 @@ https://www.coursera.org/learn/neural-networks
     - Third factor: dz(j)/dw(i,j) = y(i)
 - How to update weights: online, full-batch, mini-batch
 - Dropout: making NNs more robust by randomly omitting hidden units
+
+## 2016/11/9
+
+- Week3 Quiz
