@@ -65,3 +65,7 @@ https://www.coursera.org/learn/neural-networks
 ## 2016/11/9
 
 - Week3 Quiz
+
+## 2016/11/10
+
+- Week3 Programming Assignment
