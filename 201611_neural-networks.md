@@ -69,3 +69,13 @@ https://www.coursera.org/learn/neural-networks
 ## 2016/11/10
 
 - Week3 Programming Assignment
+
+## 2016/11/11
+
+- Week4
+- Learning relational data
+    - input: (person1, relationship) -> person2
+    - distributed encoding of person1 and relationship as a by-product
+- What is a concept?
+    - The feature theory <-> The structuralist theory
+    - Distributed representation -> many to many mapping between concepts and neurons
