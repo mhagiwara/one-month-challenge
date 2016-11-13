@@ -79,3 +79,12 @@ https://www.coursera.org/learn/neural-networks
 - What is a concept?
     - The feature theory <-> The structuralist theory
     - Distributed representation -> many to many mapping between concepts and neurons
+
+## 2016/11/12
+
+- Week4
+- Squared error not suited for logistic unit -> cross-entropy (- \sum target * log output)
+- Softmax: exp(logit(i)) / \sum j exp(logit(j))
+- Language modeling:
+    - Problem of the trigram model: does not understand similarities between words
+    - Bengio's neural net: input distributed encoding of word t-2 and t-1 -> layer -> softmax
