@@ -88,3 +88,11 @@ https://www.coursera.org/learn/neural-networks
 - Language modeling:
     - Problem of the trigram model: does not understand similarities between words
     - Bengio's neural net: input distributed encoding of word t-2 and t-1 -> layer -> softmax
+
+## 2016/11/13
+
+- Week4
+- Ways to deal with large number of outputs
+    - A serial architecture which takes a candidate word and outputs logit
+    - Use a binary tree (with words as leaves), train a prediction vector v, calc 1 - sigmoid(inner product) at every branch
+    - (Collobert and Weston, 2008) input between t-2 and t+2, replace word at t randomly
