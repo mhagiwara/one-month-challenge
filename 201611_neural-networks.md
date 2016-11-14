@@ -96,3 +96,11 @@ https://www.coursera.org/learn/neural-networks
     - A serial architecture which takes a candidate word and outputs logit
     - Use a binary tree (with words as leaves), train a prediction vector v, calc 1 - sigmoid(inner product) at every branch
     - (Collobert and Weston, 2008) input between t-2 and t+2, replace word at t randomly
+
+## 2016/11/14
+
+- Week5
+- Why it's hard to recognize objects?
+    - Change in viewpoint
+        - Use redundant invariant features (e.g., pair of roughly parallel lines with a red dot between them)
+        - Normalization doesn't work - we need to recognize the shape to get the box right
