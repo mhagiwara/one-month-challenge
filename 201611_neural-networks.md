@@ -104,3 +104,7 @@ https://www.coursera.org/learn/neural-networks
     - Change in viewpoint
         - Use redundant invariant features (e.g., pair of roughly parallel lines with a red dot between them)
         - Normalization doesn't work - we need to recognize the shape to get the box right
+
+## 2016/11/15
+
+- Week4 Quiz
