@@ -108,3 +108,14 @@ https://www.coursera.org/learn/neural-networks
 ## 2016/11/15
 
 - Week4 Quiz
+
+## 2016/11/16
+
+- Week5
+- Convolutional neural networks
+    - Replicated features (by convolution - inner product) with shared weights
+    - Pooling (subsampling) by averaging or taking max
+    - e.g., LeNet5 - used to read ~10% checks in North America
+- Significance test between different systems
+    - Is 30/10,000 errors better than 40 errors? --> it depends!
+    - McNemar test - use cases where one system gets right but the other one gets wrong
