@@ -119,3 +119,13 @@ https://www.coursera.org/learn/neural-networks
 - Significance test between different systems
     - Is 30/10,000 errors better than 40 errors? --> it depends!
     - McNemar test - use cases where one system gets right but the other one gets wrong
+
+## 2016/11/17
+
+- Week5
+- Convolutional neural networks for object recognition
+    - Why is it difficult? Many classes, many pixels, cluttered scenes, multiple objects
+    - ILSVEC-2012 competition on ImageNet - get the correct class in top 5 labels
+    - Alex Krizhevsky (University of Toronto, 2012) 16.4% error rate
+        - Used sub patches (224x224 out of 256x256) and left-right mirror images
+        - Used dropout (half of the hidden units randomly removed)
