@@ -129,3 +129,13 @@ https://www.coursera.org/learn/neural-networks
     - Alex Krizhevsky (University of Toronto, 2012) 16.4% error rate
         - Used sub patches (224x224 out of 256x256) and left-right mirror images
         - Used dropout (half of the hidden units randomly removed)
+
+## 2016/11/18
+
+- Week6
+- Stochastic gradient descent
+    - Online vs mini-batch
+    - Mini-batches are usually better (efficient on GPUs) big mini-batches are more efficient
+    - On learning rate
+        - Reduce it when error oscillates
+        - Increase it when error is falling slowly
