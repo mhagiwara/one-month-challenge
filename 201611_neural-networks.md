@@ -139,3 +139,7 @@ https://www.coursera.org/learn/neural-networks
     - On learning rate
         - Reduce it when error oscillates
         - Increase it when error is falling slowly
+
+## 2016/11/19
+
+- Week5 Quiz
