@@ -143,3 +143,13 @@ https://www.coursera.org/learn/neural-networks
 ## 2016/11/19
 
 - Week5 Quiz
+
+## 2016/11/20
+
+- Week6
+- Tricks for mini-batch gradient descent
+    - Initialize weights by small random values to break symmetry
+    - Initialize weights to be proportional to sqrt(fan-in).
+    - Shift the inputs to have zero-mean (e.g., tanh, not sigmoid)
+    - Scaling the inputs
+    - Decorrelate the input components (e.g., by PCA)
