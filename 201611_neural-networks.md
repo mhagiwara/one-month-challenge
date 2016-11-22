@@ -153,3 +153,7 @@ https://www.coursera.org/learn/neural-networks
     - Shift the inputs to have zero-mean (e.g., tanh, not sigmoid)
     - Scaling the inputs
     - Decorrelate the input components (e.g., by PCA)
+
+## 2016/11/21
+
+- Week5 Programming Assignment
