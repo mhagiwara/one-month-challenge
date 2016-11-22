@@ -157,3 +157,7 @@ https://www.coursera.org/learn/neural-networks
 ## 2016/11/21
 
 - Week5 Programming Assignment
+
+## 2016/11/22
+
+- Week5 Programming Assignment
