@@ -161,3 +161,11 @@ https://www.coursera.org/learn/neural-networks
 ## 2016/11/22
 
 - Week5 Programming Assignment
+
+## 2016/11/23
+
+- Week6
+- The momentum method
+    - The gradient increments the previous velocity
+    - If the momentum (coefficient for the previous speed term) is close to 1, this is much faster than simple gradient descent
+    - A better way: measure the gradient after making the move
