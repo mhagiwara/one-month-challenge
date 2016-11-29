@@ -169,3 +169,13 @@ https://www.coursera.org/learn/neural-networks
     - The gradient increments the previous velocity
     - If the momentum (coefficient for the previous speed term) is close to 1, this is much faster than simple gradient descent
     - A better way: measure the gradient after making the move
+
+## 2016/11/28
+
+- Week6
+- Adaptive learning rate for each neuron
+    - Start with gain of 1.0
+    - g *= .95 if the sign of gradient is different from last time t
+    - g += .05 if the sign is the same
+- Variations:
+    - Use the agreement between the current gradient and velocity
