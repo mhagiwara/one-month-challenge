@@ -175,7 +175,15 @@ https://www.coursera.org/learn/neural-networks
 - Week6
 - Adaptive learning rate for each neuron
     - Start with gain of 1.0
-    - g *= .95 if the sign of gradient is different from last time t
+    - g \*= .95 if the sign of gradient is different from last time t
     - g += .05 if the sign is the same
 - Variations:
     - Use the agreement between the current gradient and velocity
+
+## 2016/11/29
+
+- Week6
+- rprop: using only the sign of the gradient
+- rmsprop: keep a moving average of the squared gradient
+- There is no simple recipe for learning method
+    - depends on architecture, task
