@@ -187,3 +187,13 @@ https://www.coursera.org/learn/neural-networks
 - rmsprop: keep a moving average of the squared gradient
 - There is no simple recipe for learning method
     - depends on architecture, task
+
+## 2016/11/30
+
+- Week7
+- Memoryless models for sequences
+    - Autoregressive models (predict t from t-1 and t-2)
+    - Feed-forward neural nets (predict t from t-1 and t-2 -> hidden unit)
+- Compare: linear dynamic systems, HMMs
+- A fundamental limitations of HMMs: N hidden states can only remember log(N) bits information
+- Think of RNN hidden states as deterministic probability distribution
