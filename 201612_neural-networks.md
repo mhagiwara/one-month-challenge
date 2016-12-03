@@ -23,3 +23,7 @@ https://www.coursera.org/learn/neural-networks
     - A linear unit with self-lite, write gate, read gate, keep gate
     - 'We can backpropagate through this circuit because logistics have nice derivatives'
     - Handwriting recognition using LSTM
+
+## 2016/12/03
+
+- Week7 Quiz
