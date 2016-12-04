@@ -27,3 +27,12 @@ https://www.coursera.org/learn/neural-networks
 ## 2016/12/03
 
 - Week7 Quiz
+
+## 2016/12/04
+
+- Week8
+- Modeling character strings with multiplicative connections
+- An obvious recurrent NN:
+    - Hidden(t) - (Character(86)+ Hidden(t-1)) -> multiplicative 86x1500x1500
+- Multiplicative factors
+     - product(weights\*Group b, weights\*Group a)\*weights
