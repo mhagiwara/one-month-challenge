@@ -58,3 +58,12 @@ https://www.coursera.org/learn/neural-networks
     - Fix input->hidden and hidden->hidden weights at random values and only learn hidden->output connections
     - Choose connection weights very carefully: use sparse connectivity
     - A sample network: train sine wave from input frequency
+
+## 2016/12/07
+
+- Week9
+- How to prevent overfitting
+    - By far the best approach: get more (training) data!
+    - Other ways: use a model with the right capacity, model averaging, Bayesian
+- Controlling capacity: architecture, early stopping, weight-decay, noise
+- Cross-validation (N folds are *not* independent!)
