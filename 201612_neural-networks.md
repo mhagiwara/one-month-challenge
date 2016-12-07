@@ -50,3 +50,11 @@ https://www.coursera.org/learn/neural-networks
     - Sheila thrunge -> s  vs  People thrunge -> whitespace
 - It can count brackets, generate unknown words that sound very plausible
 - Tomas Mikolov et al trained large RNNs on quite large training set
+
+## 2016/12/06
+
+- Week8
+- Echo state networks
+    - Fix input->hidden and hidden->hidden weights at random values and only learn hidden->output connections
+    - Choose connection weights very carefully: use sparse connectivity
+    - A sample network: train sine wave from input frequency
