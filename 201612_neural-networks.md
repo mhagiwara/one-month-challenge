@@ -67,3 +67,16 @@ https://www.coursera.org/learn/neural-networks
     - Other ways: use a model with the right capacity, model averaging, Bayesian
 - Controlling capacity: architecture, early stopping, weight-decay, noise
 - Cross-validation (N folds are *not* independent!)
+
+## 2016/12/08
+
+- Week9
+- Limiting the size of the weights
+    - Cost = Error + L2 Penalty Term
+- Weight constraints
+     - Put limit on length of input vector; scale down if exceeded
+- Adding noise to input
+    - Equivalent to an L2 penalty
+- Adding noise to hidden units
+    - Make logistic units binary and stochastic, but backpropagate as usual
+    - Does significantly better on test set (unpublished result)
