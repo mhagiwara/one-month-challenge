@@ -80,3 +80,9 @@ https://www.coursera.org/learn/neural-networks
 - Adding noise to hidden units
     - Make logistic units binary and stochastic, but backpropagate as usual
     - Does significantly better on test set (unpublished result)
+
+## 2016/12/09
+
+- Week9
+- Bayesian approach
+    - Coin-tossing example: prior * likelihood -> normalize -> posterior
