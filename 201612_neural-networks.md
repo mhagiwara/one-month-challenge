@@ -86,3 +86,7 @@ https://www.coursera.org/learn/neural-networks
 - Week9
 - Bayesian approach
     - Coin-tossing example: prior * likelihood -> normalize -> posterior
+
+## 2016/12/10
+
+- Week8 Quiz
