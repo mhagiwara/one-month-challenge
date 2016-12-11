@@ -90,3 +90,13 @@ https://www.coursera.org/learn/neural-networks
 ## 2016/12/10
 
 - Week8 Quiz
+
+## 2016/12/11
+
+- Week9
+- The Bayesian interpretation of weight decay
+    - Assume output is the net's output value + Gaussian noise
+    - MAP: max p(W | D) = min -log p(W | D) = Squared Error + weight decay
+    - The weight decay parameter = ratio of two variances
+- MacKay's trick to determine weight costs
+    - Use the variance of residual errors
