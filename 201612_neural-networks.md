@@ -100,3 +100,7 @@ https://www.coursera.org/learn/neural-networks
     - The weight decay parameter = ratio of two variances
 - MacKay's trick to determine weight costs
     - Use the variance of residual errors
+
+## 2016/12/12
+
+- Week9 Quiz
