@@ -108,3 +108,13 @@ https://www.coursera.org/learn/neural-networks
 ## 2016/12/13
 
 - Week9 Programming Assignment
+
+## 2016/12/14
+
+- Week10
+- Bias/Variance decomposition
+    - By combining models we can lower variance
+    - Make individual predictors disagree
+- For cross entropy (discrete predictions), average probability
+- Bagging - train different models on different subsets (e.g., random forests)
+- Boosting - train weak predictors
