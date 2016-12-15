@@ -118,3 +118,13 @@ https://www.coursera.org/learn/neural-networks
 - For cross entropy (discrete predictions), average probability
 - Bagging - train different models on different subsets (e.g., random forests)
 - Boosting - train weak predictors
+
+## 2016/12/15
+
+- Week10
+- Mixture of experts
+    - A spectrum of models   nearest neighbors <-> polynomial fit
+    - An error function that encourages specialization
+        - Squared error times prob. of the manager picking expert i
+        - Manager = softmax gating network
+    - A better cost function: Gaussian mixture centered at target values
