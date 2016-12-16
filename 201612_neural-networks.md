@@ -128,3 +128,11 @@ https://www.coursera.org/learn/neural-networks
         - Squared error times prob. of the manager picking expert i
         - Manager = softmax gating network
     - A better cost function: Gaussian mixture centered at target values
+
+## 2016/12/16
+
+- Week10
+- Full bayesian learning is computationally intensive
+- Overfitting is a frequentist's illusion? Amount of data shouldn't affect priors
+- Approximation: split parameter space into grids, and evaluate p(W | D) in each grid
+- Better alternative: Sample weight vectors with p(W | D) -> MCMC
