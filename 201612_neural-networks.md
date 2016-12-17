@@ -136,3 +136,12 @@ https://www.coursera.org/learn/neural-networks
 - Overfitting is a frequentist's illusion? Amount of data shouldn't affect priors
 - Approximation: split parameter space into grids, and evaluate p(W | D) in each grid
 - Better alternative: Sample weight vectors with p(W | D) -> MCMC
+
+## 2016/12/17
+
+- Week10
+- Dropout
+    - Randomly omit each hidden unit with 50% prob.
+    - A form of (2^H) model averaging
+    - At test time: use 'mean net' with outgoing weights from hidden layer halved
+- Week10 quiz
