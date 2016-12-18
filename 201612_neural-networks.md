@@ -145,3 +145,11 @@ https://www.coursera.org/learn/neural-networks
     - A form of (2^H) model averaging
     - At test time: use 'mean net' with outgoing weights from hidden layer halved
 - Week10 quiz
+
+## 2016/12/18
+
+- Week11
+- Hopfield Nets
+    - Binary threshold units with symmetric connections have a global energy function
+    - Energy function: states (0, 1) x bias + states (0, 1) x weights between two unites
+    - Update one state at a time to find local minimum
