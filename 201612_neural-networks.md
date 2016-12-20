@@ -153,3 +153,12 @@ https://www.coursera.org/learn/neural-networks
     - Binary threshold units with symmetric connections have a global energy function
     - Energy function: states (0, 1) x bias + states (0, 1) x weights between two unites
     - Update one state at a time to find local minimum
+
+## 2016/12/19
+
+- Week11
+- Spurious minima limit memory capacity of a Hopfield net (merge two close local minima)
+- Cycle through the training set many times (as in perceptron)
+- Hopfield nets with hidden units
+    - e.g., interpretation of 2D image: hidden states = lines in 3D space
+    - Use various constrains (joining edges, right angle, etc.)
