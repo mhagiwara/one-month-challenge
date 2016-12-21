@@ -162,3 +162,13 @@ https://www.coursera.org/learn/neural-networks
 - Hopfield nets with hidden units
     - e.g., interpretation of 2D image: hidden states = lines in 3D space
     - Use various constrains (joining edges, right angle, etc.)
+
+## 2016/12/20
+
+- Week11
+- Find better energy minima by using simulated annealing
+- Thermal equilibrium = fraction of systems that remain in a configuration stays constant
+- Boltzman machine = Hopfield nets with hidden states
+    - Prob. of a configuration = exp(negative energy)
+    - Prob. of visible states configuration = marginal out Prob. of a configuration over hidden states
+    - Use MCMC to get samples from the model
