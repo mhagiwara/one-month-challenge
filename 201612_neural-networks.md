@@ -172,3 +172,9 @@ https://www.coursera.org/learn/neural-networks
     - Prob. of a configuration = exp(negative energy)
     - Prob. of visible states configuration = marginal out Prob. of a configuration over hidden states
     - Use MCMC to get samples from the model
+
+## 2016/12/30
+
+- Week12
+- Boltzman machine learning = unsupervised learning
+    - Derivative of log p(v) = expected correlation between si&sj (on training data) - current average correlation between si & sj.
