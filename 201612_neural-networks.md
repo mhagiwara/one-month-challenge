@@ -176,5 +176,12 @@ https://www.coursera.org/learn/neural-networks
 ## 2016/12/30
 
 - Week12
-- Boltzman machine learning = unsupervised learning
+- Boltzmann machine learning = unsupervised learning
     - Derivative of log p(v) = expected correlation between si&sj (on training data) - current average correlation between si & sj.
+
+## 2016/12/31
+
+- Week12
+- Restricted Boltzmann Machines
+    - No connections between hidden/visible units (bipartite graph)
+    - Learning: Start with clamped visible units with data, update hidden states, and continue
