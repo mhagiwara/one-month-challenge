@@ -26,3 +26,9 @@
 - IQR (interquartile range) = length of the 'box' in boxplot = Q3 - Q1
 - Whiskers < 1.5 x IQR. Beyond whiskers are outliers
 - Median and IQR are robust statistics (to outliers). Sample mean and variance are not.
+
+## 2017/01/04
+
+- pp. 37 - 46
+- Contingency table - a table that summarizes for two categorical variables
+- Segmented bar plot - visualization of a contingency table (either raw counts or proportion)
