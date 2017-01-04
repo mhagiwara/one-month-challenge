@@ -17,3 +17,12 @@
 - Cluster sample (group cases into clusters and sample a fixed number of clusters)
 - Blocking - split cases into blocks based on a variable and make sure to sample from all blocks
 - Blind study (participants don't know which group they are in) vs double-blind (researchers don't know either)
+
+## 2017/01/03
+
+- pp. 27 - 36
+- A mode - a prominent peak in the distribution. (unimodal = one mode, bimodal = two modes, multimodal = 2+ modes)
+- Sample variance (s^2) = sum of deviation^2 / (n - 1) (why n-1? to make it a unbiased estimator of population variance)
+- IQR (interquartile range) = length of the 'box' in boxplot = Q3 - Q1
+- Whiskers < 1.5 x IQR. Beyond whiskers are outliers
+- Median and IQR are robust statistics (to outliers). Sample mean and variance are not.
