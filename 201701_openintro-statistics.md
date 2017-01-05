@@ -1,5 +1,7 @@
 # January 2017
 
+https://www.openintro.org/stat/
+
 ## 2017/01/01
 
 - pp. 7 - 16
@@ -32,3 +34,10 @@
 - pp. 37 - 46
 - Contingency table - a table that summarizes for two categorical variables
 - Segmented bar plot - visualization of a contingency table (either raw counts or proportion)
+
+## 2017/01/05
+
+- pp. 47 - 54
+- Comparing two variables - side-by-side box plot, hollow histogram
+- No pie charts!
+- Case study: test hypothesis by simulation (gender bias experiment in promotion)
