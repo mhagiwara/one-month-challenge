@@ -41,3 +41,7 @@ https://www.openintro.org/stat/
 - Comparing two variables - side-by-side box plot, hollow histogram
 - No pie charts!
 - Case study: test hypothesis by simulation (gender bias experiment in promotion)
+
+## 2017/01/06
+
+- Lab 0
