@@ -45,3 +45,10 @@ https://www.openintro.org/stat/
 ## 2017/01/06
 
 - Lab 0
+
+## 2017/01/07
+
+- pp. 76 - 85
+- Probability
+    - Probabilities of disjoint events (that cannot happen together) can be added
+    - P(A or B) = P(A) + P(B) - P(A and B)
