@@ -56,3 +56,11 @@ https://www.openintro.org/stat/
 ## 2017/01/08
 
 - Lab 1
+
+## 2017/01/08
+
+- Lab 1
+- pp. 86 - 95
+- Probability
+    - Conditional probability, marginal probability, joint probability
+    - P(A|B) = P(A,B) / P(B)
