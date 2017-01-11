@@ -64,3 +64,10 @@ https://www.openintro.org/stat/
 - Probability
     - Conditional probability, marginal probability, joint probability
     - P(A|B) = P(A,B) / P(B)
+
+## 2017/01/09
+
+- pp. 96 - 105
+- Bayes' theorem and mammogram example (false positives)
+- Random sampling with and without replacement
+- Mean, variance of random variables
