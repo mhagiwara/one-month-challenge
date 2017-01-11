@@ -57,7 +57,7 @@ https://www.openintro.org/stat/
 
 - Lab 1
 
-## 2017/01/08
+## 2017/01/09
 
 - Lab 1
 - pp. 86 - 95
@@ -65,9 +65,17 @@ https://www.openintro.org/stat/
     - Conditional probability, marginal probability, joint probability
     - P(A|B) = P(A,B) / P(B)
 
-## 2017/01/09
+## 2017/01/10
 
 - pp. 96 - 105
 - Bayes' theorem and mammogram example (false positives)
 - Random sampling with and without replacement
 - Mean, variance of random variables
+
+## 2017/01/11
+
+- pp. 106 - 115
+- Linear combinations of random variables:
+    - Mean: E(aX+bY) = aE(X) + bE(Y)
+    - Variance: V(aX+bY) = a^2V(X) + b^2V(Y)
+- Continuous distribution (density) - area under curve is 1.
