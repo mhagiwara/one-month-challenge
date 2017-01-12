@@ -79,3 +79,10 @@ https://www.openintro.org/stat/
     - Mean: E(aX+bY) = aE(X) + bE(Y)
     - Variance: V(aX+bY) = a^2V(X) + b^2V(Y)
 - Continuous distribution (density) - area under curve is 1.
+
+## 2017/01/12
+
+- pp. 127 - 130
+- Normal distribution
+- Z-score - the number of standard deviations from the mean
+- Normal distribution table - z-score and their percentiles.
