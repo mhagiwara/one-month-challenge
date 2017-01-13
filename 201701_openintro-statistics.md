@@ -86,3 +86,13 @@ https://www.openintro.org/stat/
 - Normal distribution
 - Z-score - the number of standard deviations from the mean
 - Normal distribution table - z-score and their percentiles.
+
+## 2017/01/13
+
+- pp. 130 - 146
+- 68 - 95 - 99.7 rule - probability of falling within 1, 2, 3 stdevs from the mean
+- Evaluating the normal approximation
+    - Normal probability plot (quantile-quantile plot) - see points form a y = x line
+- Bernoulli distribution (with two possible outcomes)
+- Geometric distribution (number of trials until success)
+- Binomial distribution (probability of number of successes in independent trials)
