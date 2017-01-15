@@ -96,3 +96,9 @@ https://www.openintro.org/stat/
 - Bernoulli distribution (with two possible outcomes)
 - Geometric distribution (number of trials until success)
 - Binomial distribution (probability of number of successes in independent trials)
+
+## 2017/01/14
+
+- pp. 147 - 156
+- Normal approximation of binomial distribution
+- Negative binomial distribution (prob. of observing first success on nth trial)
