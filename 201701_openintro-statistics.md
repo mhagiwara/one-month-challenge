@@ -102,3 +102,9 @@ https://www.openintro.org/stat/
 - pp. 147 - 156
 - Normal approximation of binomial distribution
 - Negative binomial distribution (prob. of observing first success on nth trial)
+
+## 2017/01/15
+
+- pp. 157
+- Poisson distribution (Number of occurrences of independent events when the population is large)
+- Lab 2: Probability
