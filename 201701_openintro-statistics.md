@@ -108,3 +108,11 @@ https://www.openintro.org/stat/
 - pp. 157
 - Poisson distribution (Number of occurrences of independent events when the population is large)
 - Lab 2: Probability
+
+## 2017/01/16
+
+- pp. 168 - 173
+- Chapter 4 - Foundations for inference
+- Point estimates (e.g., mean, median, ...)
+- Sample distribution - distribution of point estimates from different samples
+- Standard error = standard deviation of an estimate = sigma / sqrt(n)
