@@ -116,3 +116,15 @@ https://www.openintro.org/stat/
 - Point estimates (e.g., mean, median, ...)
 - Sample distribution - distribution of point estimates from different samples
 - Standard error = standard deviation of an estimate = sigma / sqrt(n)
+
+## 2017/01/17
+
+- pp. 174 - 187
+- 95% confidence interval: point estimate ± 1.96 SE
+- Central limit theorem (informal desc.): sample mean is approximated by normal distribution
+- Hypothesis testing using confidence interval
+    - Type I error (incorrect rejection of null hypothesis, false positive) and Type II error (incorrect retaining of null hypothesis, false negative)
+- Formal testing using p-values
+    - p-value = the probability of observing data at least as favorable to the alternative hypothesis as our current data set, if the null hypothesis is true.
+- One-sided test (the estimated parameter can only be one side of the benchmark), vs two-sided test
+- z test (when the population variance is known): compute z score, and get p-value from the normal distribution table
