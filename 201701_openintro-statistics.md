@@ -128,3 +128,11 @@ https://www.openintro.org/stat/
     - p-value = the probability of observing data at least as favorable to the alternative hypothesis as our current data set, if the null hypothesis is true.
 - One-sided test (the estimated parameter can only be one side of the benchmark), vs two-sided test
 - z test (when the population variance is known): compute z score, and get p-value from the normal distribution table
+
+## 2017/01/18
+
+- pp. 188 - 197
+- Two-sided hypothesis testing
+    - p-value = left tail + right tail
+- Examining the Central Limit Theorem
+    - The distribution of sample mean follows normal distribution, no matter what the population distribution is
