@@ -136,3 +136,12 @@ https://www.openintro.org/stat/
     - p-value = left tail + right tail
 - Examining the Central Limit Theorem
     - The distribution of sample mean follows normal distribution, no matter what the population distribution is
+
+## 2017/01/19
+
+- pp. 198 - 202
+- Unbiased estimator - sampling distribution is centered at the true parameter
+- Confidence interval of normal sampling distribution:
+    - point estimate ± z* SE  (z* SE = margin or error)
+- Test statistic
+    - e.g., z-score = when a point estimate is nearly normal
