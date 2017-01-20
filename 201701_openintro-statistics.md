@@ -145,3 +145,7 @@ https://www.openintro.org/stat/
     - point estimate ± z* SE  (z* SE = margin or error)
 - Test statistic
     - e.g., z-score = when a point estimate is nearly normal
+
+## 2017/01/20
+
+- Lab 3: Distributions
