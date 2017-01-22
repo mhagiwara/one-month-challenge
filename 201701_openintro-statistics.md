@@ -149,3 +149,10 @@ https://www.openintro.org/stat/
 ## 2017/01/20
 
 - Lab 3: Distributions
+
+## 2017/01/21
+
+- pp. 219 - 228
+- t-distribution - bell-shaped distribution, with fatter tails than normal, with one parameter (degree of freedom) approaches normal distribution when df -> inf
+- One sample t-confidence interval: If the sample size is small (n), use t-distribution with n-1 degree of distribution as a coefficient.
+- Paired data
