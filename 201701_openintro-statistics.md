@@ -156,3 +156,10 @@ https://www.openintro.org/stat/
 - t-distribution - bell-shaped distribution, with fatter tails than normal, with one parameter (degree of freedom) approaches normal distribution when df -> inf
 - One sample t-confidence interval: If the sample size is small (n), use t-distribution with n-1 degree of distribution as a coefficient.
 - Paired data
+
+## 2017/01/22
+
+- pp. 229 - 238
+- Inference for paired data - t-test for differences
+- Difference of two means
+    - Standard Error of diff. of two means: see Eq. 5.16
