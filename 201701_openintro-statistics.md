@@ -163,3 +163,18 @@ https://www.openintro.org/stat/
 - Inference for paired data - t-test for differences
 - Difference of two means
     - Standard Error of diff. of two means: see Eq. 5.16
+    - How to derive this: use var(X+Y) = var(X) + var(Y)
+
+## 2017/01/23
+
+- pp. 239 - 248
+- Power calculations for a difference of means
+    - power = probability with which we detect the effect
+    - Set up null and alternative hypothesis
+    - Assume population standard deviation
+    - Set "effect size" = the degree of change that we are interested in detecting
+    - Calculate probability (area of normal distribution centered at the effect size that are below/above the rejection lines)
+- Comparing many means with ANOVA (analysis of variance)
+    - Null hypothesis: The mean is the same across all groups
+    - Alternative hypothesis: At least one mean is different
+    - Why not just do pairwise comparison? We are more tend to make Type 1 Error if first look at two groups (which are most likely outliers) then run statistical test (see: prosecutor's fallacy)
