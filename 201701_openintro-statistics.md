@@ -178,3 +178,12 @@ https://www.openintro.org/stat/
     - Null hypothesis: The mean is the same across all groups
     - Alternative hypothesis: At least one mean is different
     - Why not just do pairwise comparison? We are more tend to make Type 1 Error if first look at two groups (which are most likely outliers) then run statistical test (see: prosecutor's fallacy)
+
+## 2017/01/24
+
+- pp. 249 - 256
+- ANOVA (contd.)
+    - Mean square between groups (MSG) with associated df (k - 1)
+    - Mean square error (MSE)
+    - F = MSG / MSE, then run F-test
+    - Caution: ANOVA could reject null hypothesis even when there are no groups that are significantly different
