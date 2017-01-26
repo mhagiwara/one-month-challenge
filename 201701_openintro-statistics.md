@@ -191,3 +191,10 @@ https://www.openintro.org/stat/
 ## 2017/01/25
 
 - ggplot2 tutorial http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html
+- Introduction
+
+## 2017/01/26
+
+- ggplot2 tutorial
+- Geometric objects and aesthetics
+- Statistical transformations
