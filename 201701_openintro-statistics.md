@@ -187,3 +187,7 @@ https://www.openintro.org/stat/
     - Mean square error (MSE)
     - F = MSG / MSE, then run F-test
     - Caution: ANOVA could reject null hypothesis even when there are no groups that are significantly different
+
+## 2017/01/25
+
+- ggplot2 tutorial http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html
