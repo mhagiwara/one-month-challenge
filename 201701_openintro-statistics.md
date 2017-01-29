@@ -198,3 +198,11 @@ https://www.openintro.org/stat/
 - ggplot2 tutorial
 - Geometric objects and aesthetics
 - Statistical transformations
+
+## 2017/01/27
+
+pp. 274 - 283
+- Inference for categorical data
+- Sampling distribution of p (sample proportion) being normal - expect to see at least 10 successes and 10 failures
+- SE = sqrt(p(1-p)/n)
+- Determining the minimum sample size - use p = 0.5 for the worst case
