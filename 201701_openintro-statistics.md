@@ -206,3 +206,11 @@ pp. 274 - 283
 - Sampling distribution of p (sample proportion) being normal - expect to see at least 10 successes and 10 failures
 - SE = sqrt(p(1-p)/n)
 - Determining the minimum sample size - use p = 0.5 for the worst case
+
+## 2017/01/28
+
+- pp. 284 - 293
+- Chi-square test
+    - Z1 = (observed group(1) count - null group(1) count) / SE of observed group(1) count
+    - chi-square = z1^2 + z2^2 + ...
+    - Use chi-square distribution with df = k - 1 (k = number of groups)
