@@ -214,3 +214,15 @@ pp. 274 - 283
     - Z1 = (observed group(1) count - null group(1) count) / SE of observed group(1) count
     - chi-square = z1^2 + z2^2 + ...
     - Use chi-square distribution with df = k - 1 (k = number of groups)
+
+## 2017/01/29
+
+- pp. 294 - 303
+- Hypothesis testing S&P 500 daily movements (whether it's independent of the previous day movement)
+- Build distribution over days until a 'up' day
+    - If independent, this follows a geometric distribution
+    - Use chi-square test to compare hypothetical and real distributions
+- Two-way tables
+    - combinations of outcomes
+    - calculate expected counts from table total
+    - run chi-square test with df = (# of rows - 1) x (# of columns - 1)
