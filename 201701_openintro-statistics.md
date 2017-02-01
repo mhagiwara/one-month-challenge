@@ -226,3 +226,12 @@ pp. 274 - 283
     - combinations of outcomes
     - calculate expected counts from table total
     - run chi-square test with df = (# of rows - 1) x (# of columns - 1)
+
+## 2017/01/30
+
+- pp. 304 - 311
+- Small sample hypothesis testing for a proportion
+    - Simulate the outcome for the sample, repeat this to get the distribution of the estimate
+    - Binomial distribution
+- Randomization test
+    - Comparison of large sample framework and small sample methods
