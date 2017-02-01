@@ -235,3 +235,7 @@ pp. 274 - 283
     - Binomial distribution
 - Randomization test
     - Comparison of large sample framework and small sample methods
+
+## 2017/01/31
+
+- Lab 4A: Intro to Inference
