@@ -12,3 +12,9 @@ http://www.springer.com/us/book/9783319144351
 pp. 13 - 24
 - A quick tour of R's capabilities
 - Basic objects
+
+## 2017/02/06
+
+pp. 25 - 36
+- Lists, Data frames
+
