@@ -18,3 +18,7 @@ pp. 13 - 24
 pp. 25 - 36
 - Lists, Data frames
 
+## 2017/02/07
+
+pp. 37 - 46
+- Writing your own functions
