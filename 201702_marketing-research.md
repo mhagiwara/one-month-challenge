@@ -22,3 +22,8 @@ pp. 25 - 36
 
 pp. 37 - 46
 - Writing your own functions
+
+## 2017/02/08
+
+pp. 47 - 57
+- Functions to summarize a variable
