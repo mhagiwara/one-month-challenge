@@ -27,3 +27,8 @@ pp. 37 - 46
 
 pp. 47 - 57
 - Functions to summarize a variable
+
+## 2017/02/09
+
+pp. 58 - 60
+- Inspecting data, apply()
