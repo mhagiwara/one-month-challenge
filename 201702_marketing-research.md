@@ -32,3 +32,9 @@ pp. 47 - 57
 
 pp. 58 - 60
 - Inspecting data, apply()
+
+## 2017/02/10
+
+pp. 61 - 77
+- Histogram, boxplot
+- aggregate() and by()
