@@ -38,3 +38,9 @@ pp. 58 - 60
 pp. 61 - 77
 - Histogram, boxplot
 - aggregate() and by()
+
+## 2017/02/11
+
+pp. 78 - 87
+- Simulating data
+- Scatterplots
