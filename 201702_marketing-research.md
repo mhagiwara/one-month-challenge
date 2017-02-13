@@ -44,3 +44,9 @@ pp. 61 - 77
 pp. 78 - 87
 - Simulating data
 - Scatterplots
+
+## 2017/02/13
+
+pp. 88 - 101
+- Pair plots
+- Correlation
