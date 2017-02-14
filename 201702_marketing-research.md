@@ -50,3 +50,12 @@ pp. 78 - 87
 pp. 88 - 101
 - Pair plots
 - Correlation
+
+## 2017/02/14
+
+pp. 102 - 101
+
+- Common transform
+    - unit sales, revenue, household income: log(x)
+    - distance: 1/x, 1/x^2, log(x)
+- Box-Cox transformations
