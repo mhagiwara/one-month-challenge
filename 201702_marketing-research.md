@@ -53,9 +53,14 @@ pp. 88 - 101
 
 ## 2017/02/14
 
-pp. 102 - 101
-
+pp. 102 - 111
 - Common transform
     - unit sales, revenue, household income: log(x)
     - distance: 1/x, 1/x^2, log(x)
 - Box-Cox transformations
+
+## 2017/02/15
+
+pp. 112 - 121
+- for loop
+- don't use 1:length(seq), use seq_along(seq)
