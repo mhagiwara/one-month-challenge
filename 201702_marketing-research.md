@@ -64,3 +64,9 @@ pp. 102 - 111
 pp. 112 - 121
 - for loop
 - don't use 1:length(seq), use seq_along(seq)
+
+## 2017/02/16
+
+pp. 122 - 134
+- formula syntax
+- lattice package
