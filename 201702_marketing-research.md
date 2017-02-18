@@ -70,3 +70,10 @@ pp. 112 - 121
 pp. 122 - 134
 - formula syntax
 - lattice package
+
+## 2017/02/17
+
+pp. 135 - 144
+- Chi-square test
+- Binomial test
+- t test
