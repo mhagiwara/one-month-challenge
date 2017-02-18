@@ -77,3 +77,9 @@ pp. 135 - 144
 - Chi-square test
 - Binomial test
 - t test
+
+## 2017/02/18
+
+pp. 145 - 154
+- ANOVA
+- Bayesian Factors
