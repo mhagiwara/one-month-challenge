@@ -83,3 +83,9 @@ pp. 135 - 144
 pp. 145 - 154
 - ANOVA
 - Bayesian Factors
+
+## 2017/02/19
+
+pp. 155 - 164
+- gpairs
+- Linear models
