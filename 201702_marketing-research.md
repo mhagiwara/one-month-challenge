@@ -89,3 +89,9 @@ pp. 145 - 154
 pp. 155 - 164
 - gpairs
 - Linear models
+
+## 2017/02/20
+
+pp. 165 - 174
+- lm() with one and two variables
+- coefplot()
