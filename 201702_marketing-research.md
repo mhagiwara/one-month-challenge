@@ -95,3 +95,9 @@ pp. 155 - 164
 pp. 165 - 174
 - lm() with one and two variables
 - coefplot()
+
+## 2017/02/21
+
+pp. 175 - 184
+- scale()
+- interaction terms (x:y -> only the interaction term, x*y -> x, y, and the interaction term)
