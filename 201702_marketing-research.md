@@ -101,3 +101,8 @@ pp. 165 - 174
 pp. 175 - 184
 - scale()
 - interaction terms (x:y -> only the interaction term, x*y -> x, y, and the interaction term)
+
+## 2017/02/22
+
+pp. 185 - 194
+
