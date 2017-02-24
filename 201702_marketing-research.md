@@ -111,3 +111,11 @@ pp. 185 - 194
 pp. 195 - 204
 - PCA examples
 - prcomp() and biplot()
+
+## 2017/02/24
+
+pp. 205 - 214
+- Exploratory Factor Analysis
+    - 'construct' from manifest variables
+    - EFA attempts to find solutions that are maximally interpretable
+    - 'oblique' rotations (factors that are not orthogonal)
