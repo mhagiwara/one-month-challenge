@@ -106,3 +106,8 @@ pp. 175 - 184
 
 pp. 185 - 194
 
+## 2017/02/23
+
+pp. 195 - 204
+- PCA examples
+- prcomp() and biplot()
