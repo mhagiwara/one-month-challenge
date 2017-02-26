@@ -119,3 +119,9 @@ pp. 205 - 214
     - 'construct' from manifest variables
     - EFA attempts to find solutions that are maximally interpretable
     - 'oblique' rotations (factors that are not orthogonal)
+
+## 2017/02/25
+
+pp. 215 - 224
+- Visualizing factor loadings by semPlot package
+- MDS
