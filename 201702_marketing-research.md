@@ -125,3 +125,11 @@ pp. 205 - 214
 pp. 215 - 224
 - Visualizing factor loadings by semPlot package
 - MDS
+
+## 2017/02/26
+
+pp. 225 - 234
+- Remediating collinearity
+    - Variance inflation factor (VIF > 5.0)
+    - Omit the variable, run PCA, or use random forest
+- Logistic regression
