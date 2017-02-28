@@ -133,3 +133,9 @@ pp. 225 - 234
     - Variance inflation factor (VIF > 5.0)
     - Omit the variable, run PCA, or use random forest
 - Logistic regression
+
+## 2017/02/27
+
+pp. 235 - 244
+- Logistic regression with glm(family=binomial)
+- Hierarchical linear models
