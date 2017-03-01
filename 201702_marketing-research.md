@@ -139,3 +139,8 @@ pp. 225 - 234
 pp. 235 - 244
 - Logistic regression with glm(family=binomial)
 - Hierarchical linear models
+
+## 2017/02/28
+
+pp. 245 - 247
+- Dataset creation for hierarchical linear models
